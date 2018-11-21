@@ -1,4 +1,4 @@
-pojemnoœæ dysku: 421 GB
-iloœæ pamiêci RAM: 4,00 GB
-rodzaj i prêdkoœæ procesora: Intel(R) Pentium(R) CPU N3700 @ 1.60GHz 1.60 GHz
+pojemnosc dysku: 421 GB
+ilosc pamieci RAM: 4,00 GB
+rodzaj i predkosc procesora: Intel(R) Pentium(R) CPU N3700 @ 1.60GHz 1.60 GHz
 typ systemu: 64-bitowy system operacyjny
